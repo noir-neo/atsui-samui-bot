@@ -1,0 +1,4 @@
+.bundle/
+vendor/
+
+slappy_config.rb
